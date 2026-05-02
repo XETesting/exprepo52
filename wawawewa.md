@@ -1,1 +1,7 @@
-This is the new content for the file wawawewa.md created on branch borat.
+# Hello World Code
+
+```python
+print("Hello, World!")
+```
+
+This is a simple Hello World program in Python.
